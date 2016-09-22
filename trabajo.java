@@ -10,7 +10,7 @@ public class trabajo{
 		if(edad >= 18) {
 			System.out.print("Te invito a tomar una copa");
 		} else {
-			System.out.print("Hata luego");
+			System.out.print("Este es un chat de adultos, te rogaría que lo abandonases. Hata luego");
 		}
 	}
 }
